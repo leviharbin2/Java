@@ -1,0 +1,12 @@
+
+public class PerimeterComparator {
+
+
+	
+
+	public int compare(Rectangle o1, Rectangle o2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	}
+
